@@ -5,6 +5,15 @@ class First {
   }
 }
 
+class First {
+  public static void main(String[] arguments) {
+    System.out.println("Let's do something using Java technology.");
+  }
+}
+
+
+
+
 
 class second class {
   public static void main(String[] arguments) {
@@ -39,5 +48,7 @@ public class Demo {
            total = total + count;
        }
 
-       System.out.println("Sum of first 20 natural numbers is: "+total);
-    }
+       System.out.println("Sum of first 20 natural numbers is: "+total)
+}
+
+}
